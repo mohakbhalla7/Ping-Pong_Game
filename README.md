@@ -4,10 +4,10 @@ Run the MainLogic.java file to play the game.
 
 # Snapshots
 
-![](Snapshot/1.png)
+![](Snapshots/1.png)
 
-![](Snapshot/2.png)
+![](Snapshots/2.png)
 
-![](Snapshot/3.png)
+![](Snapshots/3.png)
 
-![](Snapshot/4.png)
+![](Snapshots/4.png)
